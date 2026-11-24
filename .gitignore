@@ -1,0 +1,10 @@
+# build output
+*.o
+*.elf
+*.prx
+*.SFO
+EBOOT.PBP
+PARAM.SFO
+
+# ARK-4 library goes here locally, not into the repo
+ark/*.a
